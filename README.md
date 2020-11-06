@@ -4,5 +4,5 @@
 
 <br><br><br>
 
-<small> test it in ubuntu 20.04 </small>
-<small> update it if U can add any thing or change it to better </small>
+<p> test it in ubuntu 20.04 </p>
+<p> update it if U can add any thing or change it to better </p>
