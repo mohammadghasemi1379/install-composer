@@ -7,4 +7,4 @@
 <br><br>
 <p> test it in ubuntu 20.04 </p>
 <p> update it if U can add any thing or change it to better </p>
-<p> for install in manjaro or arch base linux u can checkout the arch-manjaro branch </p>
+<p> for install in manjaro or arch base linux u can checkout the <a href="https://github.com/mohammadghasemi1379/install-composer/tree/arch-manjaro"> arch-manjaro </a> branch </p>
